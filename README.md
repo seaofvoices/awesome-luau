@@ -20,8 +20,10 @@ __Table of content__:
 | [`@jsdotlua/collections`](https://github.com/jsdotlua/luau-polyfill) | JavaScript like collections (Array, Map, Set, Object) | ![NPM License](https://img.shields.io/npm/l/@jsdotlua/collections?label=) |
 | [`@jsdotlua/diff-sequences`](https://github.com/jsdotlua/jest-lua) | Compare items in two sequences to find the longest common subsequence | ![NPM License](https://img.shields.io/npm/l/@jsdotlua/diff-sequences?label=) |
 | [`@jsdotlua/graphql`](https://github.com/jsdotlua/graphql-lua) | A reference implementation of GraphQL translated to Luau | ![NPM License](https://img.shields.io/npm/l/@jsdotlua/graphql?label=) |
+| [`chroma-luau`](https://github.com/seaofvoices/chroma-luau) | A library for color manipulation  | ![NPM License](https://img.shields.io/npm/l/chroma-luau?label=) |
 | [`luau-disk`](https://github.com/seaofvoices/luau-disk) | Immutable table operations for Luau | ![NPM License](https://img.shields.io/npm/l/luau-disk?label=) |
 | [`luau-grids`](https://github.com/seaofvoices/luau-grids) | A fully typed library to handle grids (2D or 3D) | ![NPM License](https://img.shields.io/npm/l/luau-grids?label=) |
+| [`luau-path`](https://github.com/seaofvoices/luau-path) | A library to handle file paths (based on the Rust implementation)  | ![NPM License](https://img.shields.io/npm/l/luau-path?label=) |
 
 ## Resources
 
@@ -97,5 +99,6 @@ A list of packages inspired by JavaScript concepts or even directly translated f
 | [`@jsdotlua/react-test-renderer`](https://github.com/jsdotlua/react-lua) | Roblox Luau port of the react-test-renderer for integration-level tests | ![NPM License](https://img.shields.io/npm/l/@jsdotlua/react-test-renderer?label=) |
 | [`@jsdotlua/scheduler`](https://github.com/jsdotlua/react-lua) | The scheduler implementation used by the React fiber reconciler | ![NPM License](https://img.shields.io/npm/l/@jsdotlua/scheduler?label=) |
 | [`@jsdotlua/zen-observable`](https://github.com/jsdotlua/zen-observable-lua) | Observables for Luau | ![NPM License](https://img.shields.io/npm/l/@jsdotlua/zen-observable?label=) |
+| [`chroma-luau`](https://github.com/seaofvoices/chroma-luau) | A library for color manipulation  | ![NPM License](https://img.shields.io/npm/l/chroma-luau?label=) |
 | [`luau-regexp`](https://github.com/jsdotlua/regex-lua) | A regular expression library for Luau | ![NPM License](https://img.shields.io/npm/l/luau-regexp?label=) |
 | [`symbol-luau`](https://github.com/jsdotlua/symbol-luau) | Simple object to mimic JavaScript Symbol type | ![NPM License](https://img.shields.io/npm/l/symbol-luau?label=) |
