@@ -47,6 +47,8 @@ __Table of content__:
 | [`@crosswalk-game/currency`](https://github.com/seaofvoices/crosswalk-currency) | A crosswalk module to handle in-game currencies | ![NPM License](https://img.shields.io/npm/l/@crosswalk-game/currency?label=) |
 | [`@crosswalk-game/data-handler`](https://github.com/seaofvoices/crosswalk-data-handler) | A crosswalk module to handle player data | ![NPM License](https://img.shields.io/npm/l/@crosswalk-game/data-handler?label=) |
 | [`@crosswalk-game/menu-handler`](https://github.com/seaofvoices/menu-handler) | A module to handle UI menus using tagged instances | ![NPM License](https://img.shields.io/npm/l/@crosswalk-game/menu-handler?label=) |
+| [`@seaofvoices/react-lua-hooks`](https://github.com/seaofvoices/react-lua-hooks) | General-purpose collection of hooks for React-Lua | ![NPM License](https://img.shields.io/npm/l/@seaofvoices/react-lua-hooks?label=) |
+| [`@seaofvoices/react-roblox-hooks`](https://github.com/seaofvoices/react-lua-hooks) | Roblox specific collection of hooks for React-Lua | ![NPM License](https://img.shields.io/npm/l/@seaofvoices/react-roblox-hooks?label=) |
 | [`@seaofvoices/react-roblox-studio-plugin`](https://github.com/seaofvoices/react-roblox-studio-plugin) | A React component library to create Roblox plugins | ![NPM License](https://img.shields.io/npm/l/@seaofvoices/react-roblox-studio-plugin?label=) |
 | [`@seaofvoices/tag-effect`](https://github.com/seaofvoices/tag-effect) | A Luau library to apply effects to tagged Roblox instances | ![NPM License](https://img.shields.io/npm/l/@seaofvoices/tag-effect?label=) |
 | [`@sircfenner/studiocomponents`](https://github.com/sircfenner/StudioComponents) | React implementation of Roblox Studio components | ![NPM License](https://img.shields.io/npm/l/@sircfenner/studiocomponents?label=) |
@@ -72,6 +74,8 @@ __Table of content__:
 | [`@jsdotlua/react-roblox`](https://github.com/jsdotlua/react-lua) | Roblox opinionated renderer to stand for native renderers like react-dom | ![NPM License](https://img.shields.io/npm/l/@jsdotlua/react-roblox?label=) |
 | [`@jsdotlua/react-test-renderer`](https://github.com/jsdotlua/react-lua) | Roblox Luau port of the react-test-renderer for integration-level tests | ![NPM License](https://img.shields.io/npm/l/@jsdotlua/react-test-renderer?label=) |
 | [`@jsdotlua/scheduler`](https://github.com/jsdotlua/react-lua) | The scheduler implementation used by the React fiber reconciler | ![NPM License](https://img.shields.io/npm/l/@jsdotlua/scheduler?label=) |
+| [`@seaofvoices/react-lua-hooks`](https://github.com/seaofvoices/react-lua-hooks) | General-purpose collection of hooks for React-Lua | ![NPM License](https://img.shields.io/npm/l/@seaofvoices/react-lua-hooks?label=) |
+| [`@seaofvoices/react-roblox-hooks`](https://github.com/seaofvoices/react-lua-hooks) | Roblox specific collection of hooks for React-Lua | ![NPM License](https://img.shields.io/npm/l/@seaofvoices/react-roblox-hooks?label=) |
 | [`@seaofvoices/react-roblox-studio-plugin`](https://github.com/seaofvoices/react-roblox-studio-plugin) | A React component library to create Roblox plugins | ![NPM License](https://img.shields.io/npm/l/@seaofvoices/react-roblox-studio-plugin?label=) |
 | [`@sircfenner/studiocomponents`](https://github.com/sircfenner/StudioComponents) | React implementation of Roblox Studio components | ![NPM License](https://img.shields.io/npm/l/@sircfenner/studiocomponents?label=) |
 
