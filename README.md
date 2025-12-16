@@ -12,6 +12,7 @@ __Table of content__:
 - [Test](#test): test frameworks or utilities for testing
 - [React](#react): libraries of components, hooks or other packages related to [React](https://github.com/jsdotlua/react-lua)
 - [JavaScript](#javascript): packages inspired by JavaScript
+- [Rust](#rust): packages inspired by Rust
 
 ## Data
 
@@ -25,6 +26,7 @@ __Table of content__:
 | [`@jsdotlua/otter`](https://github.com/jsdotlua/otter/tree/main/modules/otter) | Declarative animation library for Luau built around (but not limited to) springs | ![NPM License](https://img.shields.io/npm/l/@jsdotlua/otter?label=) |
 | [`@jsdotlua/react-otter`](https://github.com/jsdotlua/otter/tree/main/modules/react-otter) | A React interface to the declarative animation library named Otter | ![NPM License](https://img.shields.io/npm/l/@jsdotlua/react-otter?label=) |
 | [`@seaofvoices/easing-styles`](https://github.com/seaofvoices/easing-styles) | A library to interpolate values using common easing functions  | ![NPM License](https://img.shields.io/npm/l/@seaofvoices/easing-styles?label=) |
+| [`@seaofvoices/heck-luau`](https://github.com/seaofvoices/heck-luau) | A case conversion library with Unicode support | ![NPM License](https://img.shields.io/npm/l/@seaofvoices/heck-luau?label=) |
 | [`@sircfenner/png-luau`](https://github.com/sircfenner/png-luau) | Luau library for working with PNG files  | ![NPM License](https://img.shields.io/npm/l/@sircfenner/png-luau?label=) |
 | [`chroma-luau`](https://github.com/seaofvoices/chroma-luau) | A library for color manipulation  | ![NPM License](https://img.shields.io/npm/l/chroma-luau?label=) |
 | [`luau-character`](https://github.com/seaofvoices/luau-character) |  A library for Unicode character classification  | ![NPM License](https://img.shields.io/npm/l/luau-character?label=) |
@@ -32,6 +34,7 @@ __Table of content__:
 | [`luau-grids`](https://github.com/seaofvoices/luau-grids) | A fully typed library to handle grids (2D or 3D) | ![NPM License](https://img.shields.io/npm/l/luau-grids?label=) |
 | [`luau-path`](https://github.com/seaofvoices/luau-path) | A library to handle file paths (based on the Rust implementation)  | ![NPM License](https://img.shields.io/npm/l/luau-path?label=) |
 | [`luau-unicode-width`](https://github.com/seaofvoices/luau-unicode-width) | A library for calculating displayed width of Unicode characters and strings  | ![NPM License](https://img.shields.io/npm/l/luau-unicode-width?label=) |
+| [`luau-zlib`](https://github.com/seaofvoices/luau-zlib) | A library to compress and decompress strings using the deflate/zlib format | ![NPM License](https://img.shields.io/npm/l/luau-zlib?label=) |
 
 ## Resources
 
@@ -124,3 +127,13 @@ A list of packages inspired by JavaScript concepts or even directly translated f
 | [`chroma-luau`](https://github.com/seaofvoices/chroma-luau) | A library for color manipulation  | ![NPM License](https://img.shields.io/npm/l/chroma-luau?label=) |
 | [`luau-regexp`](https://github.com/jsdotlua/regex-lua) | A regular expression library for Luau | ![NPM License](https://img.shields.io/npm/l/luau-regexp?label=) |
 | [`symbol-luau`](https://github.com/jsdotlua/symbol-luau) | Simple object to mimic JavaScript Symbol type | ![NPM License](https://img.shields.io/npm/l/symbol-luau?label=) |
+
+## Rust
+
+A list of packages inspired by Rust concepts or even directly translated from Rust crates.
+
+| Package | Description | License |
+| --- | --- | :---: |
+| [`@seaofvoices/heck-luau`](https://github.com/seaofvoices/heck-luau) | A case conversion library with Unicode support | ![NPM License](https://img.shields.io/npm/l/@seaofvoices/heck-luau?label=) |
+| [`luau-character`](https://github.com/seaofvoices/luau-character) |  A library for Unicode character classification  | ![NPM License](https://img.shields.io/npm/l/luau-character?label=) |
+| [`luau-unicode-width`](https://github.com/seaofvoices/luau-unicode-width) | A library for calculating displayed width of Unicode characters and strings  | ![NPM License](https://img.shields.io/npm/l/luau-unicode-width?label=) |
